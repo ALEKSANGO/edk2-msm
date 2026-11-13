@@ -9,7 +9,7 @@
 
 This repository aims to provide an usable EDK2 UEFI environment for modern Qualcomm SoCs.
 
-It can be used as a boot manager for multi-booting mainline Linux, Android and optionally Windows on certain SoCs.
+It can be used as a boot manager for multi-bootFing mainline Linux, Android and optionally Windows on certain SoCs.
 
 ## User guide and documentations
 
